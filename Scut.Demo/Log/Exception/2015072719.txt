@@ -1,0 +1,24 @@
+Time:2015/7/27 19:26:16-Trace>>OnCheckSqlWaitSyncQueue error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.Cache.Generic.DataSyncQueueManager.OnCheckSqlWaitSyncQueue(Object state)
+
+
+Time:2015/7/27 19:26:16-Trace>>OnCheckSqlWaitSyncQueue error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.Cache.Generic.DataSyncQueueManager.OnCheckSqlWaitSyncQueue(Object state)
+
+
+Time:2015/7/27 19:31:16-Trace>>FindEntityFromRedis GameServer.Script.Model.StaticServer error:System.Exception: Get "GameServer.Script.Model.StaticServer" entity is null, keycode:5,buffer len:-1,state:0
+   在 ZyGames.Framework.Cache.Generic.DataSyncQueueManager.GenerateSqlFrom(SqlDataSender sender, RedisClient client, Byte[][] keys, Byte[][] values)
+
+
+Time:2015/7/27 19:31:16-Trace>>FindEntityFromRedis GameServer.Script.Model.StaticServer error:System.Exception: Get "GameServer.Script.Model.StaticServer" entity is null, keycode:0,buffer len:-1,state:0
+   在 ZyGames.Framework.Cache.Generic.DataSyncQueueManager.GenerateSqlFrom(SqlDataSender sender, RedisClient client, Byte[][] keys, Byte[][] values)
+
+
+Time:2015/7/27 19:34:29-Trace>>FindEntityFromRedis GameServer.Script.Model.StaticServer error:System.Exception: Get "GameServer.Script.Model.StaticServer" entity is null, keycode:5,buffer len:-1,state:0
+   在 ZyGames.Framework.Cache.Generic.DataSyncQueueManager.GenerateSqlFrom(SqlDataSender sender, RedisClient client, Byte[][] keys, Byte[][] values)
+
+
+Time:2015/7/27 19:34:29-Trace>>FindEntityFromRedis GameServer.Script.Model.StaticServer error:System.Exception: Get "GameServer.Script.Model.StaticServer" entity is null, keycode:0,buffer len:-1,state:0
+   在 ZyGames.Framework.Cache.Generic.DataSyncQueueManager.GenerateSqlFrom(SqlDataSender sender, RedisClient client, Byte[][] keys, Byte[][] values)
+
+

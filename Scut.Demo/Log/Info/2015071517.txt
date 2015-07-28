@@ -1,0 +1,46 @@
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+17:19:32 Server is starting...
+17:19:33 script compiled successfully.
+17:19:33 Start checking table schema, please wait.
+17:19:33 Check table schema successfully.
+17:19:34 CacheFactory listen has started...
+# Server command "Ctrl+C" or "Ctrl+Break" exit.
+17:19:34 Server has started successfully!
+# Server is listening...
+17:29:40 Clear expired cache end.
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+17:54:49 Server is starting...
+17:54:50 Server failed to start error:could not connect to redis Instance at 127.0.0.1:6379
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+17:55:51 Server is starting...
+17:55:53 script compiled successfully.
+17:55:53 Start checking table schema, please wait.
+17:55:54 Check table schema successfully.
+17:55:54 CacheFactory listen has started...
+# Server command "Ctrl+C" or "Ctrl+Break" exit.
+17:55:54 Server has started successfully!
+# Server is listening...

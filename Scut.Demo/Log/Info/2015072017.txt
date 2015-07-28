@@ -1,0 +1,140 @@
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+17:00:07 Server is starting...
+17:00:08 Server failed to start error:The csharp script compile error
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+17:10:36 Server is starting...
+17:10:37 Server failed to start error:The csharp script compile error
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+17:13:52 Server is starting...
+17:13:54 Server failed to start error:The csharp script compile error
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+17:14:26 Server is starting...
+17:14:27 Server failed to start error:The csharp script compile error
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+17:15:23 Server is starting...
+17:15:25 Server failed to start error:The csharp script compile error
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+17:15:50 Server is starting...
+17:15:52 script compiled successfully.
+17:15:52 Start checking table schema, please wait.
+17:15:52 Check table schema successfully.
+17:15:52 CacheFactory listen has started...
+# Server command "Ctrl+C" or "Ctrl+Break" exit.
+17:15:52 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+17:16:58 Server is starting...
+17:17:00 script compiled successfully.
+17:17:00 Start checking table schema, please wait.
+17:17:00 Check table schema successfully.
+17:17:00 CacheFactory listen has started...
+# Server command "Ctrl+C" or "Ctrl+Break" exit.
+17:17:00 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+17:21:35 Server is starting...
+17:21:36 script compiled successfully.
+17:21:36 Start checking table schema, please wait.
+17:21:37 Check table schema successfully.
+17:21:37 CacheFactory listen has started...
+# Server command "Ctrl+C" or "Ctrl+Break" exit.
+17:21:37 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+17:31:42 Server is starting...
+17:31:43 script compiled successfully.
+17:31:43 Start checking table schema, please wait.
+17:31:43 Check table schema successfully.
+17:31:43 CacheFactory listen has started...
+# Server command "Ctrl+C" or "Ctrl+Break" exit.
+17:31:44 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+17:39:52 Server is starting...
+17:39:54 script compiled successfully.
+17:39:54 Start checking table schema, please wait.
+17:39:54 Check table schema successfully.
+17:39:54 CacheFactory listen has started...
+# Server command "Ctrl+C" or "Ctrl+Break" exit.
+17:39:54 Server has started successfully!
+# Server is listening...

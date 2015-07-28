@@ -1,0 +1,53 @@
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+18:20:25 Server is starting...
+18:20:27 script compiled successfully.
+18:20:27 Start checking table schema, please wait.
+18:20:27 Check table schema successfully.
+18:20:27 CacheFactory listen has started...
+# Server command "Ctrl+C" or "Ctrl+Break" exit.
+18:20:27 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+18:27:42 Server is starting...
+18:27:44 script compiled successfully.
+18:27:44 Start checking table schema, please wait.
+18:27:44 Check table schema successfully.
+18:27:44 CacheFactory listen has started...
+# Server command "Ctrl+C" or "Ctrl+Break" exit.
+18:27:44 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+18:28:21 Server is starting...
+18:28:23 script compiled successfully.
+18:28:23 Start checking table schema, please wait.
+18:28:23 Check table schema successfully.
+18:28:23 CacheFactory listen has started...
+# Server command "Ctrl+C" or "Ctrl+Break" exit.
+18:28:23 Server has started successfully!
+# Server is listening...
+18:38:39 Clear expired cache end.
+18:48:39 Clear expired cache end.

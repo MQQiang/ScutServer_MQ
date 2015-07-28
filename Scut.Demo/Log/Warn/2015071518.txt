@@ -1,0 +1,39 @@
+Time:2015/7/15 18:03:54-Trace>>Action-1002 Uid:0 access timeout 133221.8048/500ms.
+
+
+Time:2015/7/15 18:04:07-Trace>>Action-1002 Uid:0 access timeout 91489.5672/500ms.
+
+
+Time:2015/7/15 18:28:04-Trace>>Action-1002 Uid:0 access timeout 8556.1635/500ms.
+
+
+Time:2015/7/15 18:31:57-Trace>>Action-1002 Uid:0 access timeout 58947.5046/500ms.
+
+
+Time:2015/7/15 18:32:22-Trace>>Action-1002 Uid:0 access timeout 3278.168/500ms.
+
+
+Time:2015/7/15 18:32:56-Trace>>Action-1004 Uid:1380000 access timeout 6392.3321/500ms.
+
+
+Time:2015/7/15 18:35:39-Trace>>Action-1008 Uid:1380000 access timeout 163029.4577/500ms.
+
+
+Time:2015/7/15 18:35:40-Trace>>OnEntitySyncQueue execute count:2, success:0/total 2, fail:0 start...
+
+
+Time:2015/7/15 18:35:40-Trace>>Action-1005 Uid:1380000 access timeout 1668.0798/500ms.
+
+
+Time:2015/7/15 18:35:42-Trace>>Action-1008 Uid:1380000 access timeout 2408.1249/500ms.
+
+
+Time:2015/7/15 18:35:44-Trace>>Action-1008 Uid:1380000 access timeout 2489.1284/500ms.
+
+
+Time:2015/7/15 18:35:44-Trace>>Action-1008 Uid:1380000 access timeout 858.0418/500ms.
+
+
+Time:2015/7/15 18:35:45-Trace>>Action-1008 Uid:1380000 access timeout 779.0378/500ms.
+
+

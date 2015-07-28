@@ -1,0 +1,7 @@
+﻿D:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo> "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe" /t:library /utf8output /R:"System.dll" /R:"System.Core.dll" /R:"System.Data.dll" /R:"System.Xml.dll" /R:"System.Xml.Linq.dll" /R:"Microsoft.CSharp.dll" /R:"System.Configuration.dll" /R:"System.Web.dll" /R:"D:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\NLog.dll" /R:"D:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Newtonsoft.Json.dll" /R:"D:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\protobuf-net.dll" /R:"D:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\ServiceStack.Redis.dll" /R:"D:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\ZyGames.Framework.Common.dll" /R:"D:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\ZyGames.Framework.dll" /R:"D:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\ZyGames.Framework.Game.dll" /out:"D:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\temp\yp5korwy.dll" /D:DEBUG /debug+ /optimize-  "D:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\Model\UserDescription.cs" "D:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\Model\UserRole.cs" "D:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\Model\StaticServer.cs" "D:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\Model\Properties\AssemblyInfo.cs" "D:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\Model\GuestUser.cs"
+
+
+Microsoft(R) Visual C# 编译器版本 4.0.30319.36264
+用于 Microsoft(R) .NET Framework 4.5
+版权所有 (C) Microsoft Corporation。保留所有权利。
+

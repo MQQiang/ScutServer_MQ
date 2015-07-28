@@ -1,0 +1,23 @@
+Time:2015/7/21 14:42:22-Trace>>OnInit error:System.Exception: Redis server is using "192.168.1.102" game server, it's path:D:\Server\Scut-sample\GameRanking\Server\src\GameRanking.Host\
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<InitRedisInfo>b__0(RedisClient cli)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<>c__DisplayClass10.<>c__DisplayClass12.<ProcessTrans>b__f()
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(RedisClient client, String[] watchKeys, Func`1 processFunc, Action`1 transFunc, Action`2 errorFunc)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<>c__DisplayClass10.<ProcessTrans>b__e(RedisClient client)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Process(Action`1 func)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(String[] watchKeys, Func`2 processFunc, Action`1 transFunc, Action`2 errorFunc)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(String watchKeys, Func`2 processFunc, Action`1 transFunc)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.InitRedisInfo()
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Initialize(RedisPoolSetting setting, ICacheSerializer serializer)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Initialize(ICacheSerializer serializer)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2015/7/21 14:43:35-Trace>>Action1008 error:System.NullReferenceException: Not found entity GameUserCopy personalId:1380000.
+   在 ZyGames.Framework.Cache.Generic.PersonalCacheStruct.Get[T](String personalId, Boolean allowNull, Object[] keys)
+   在 GameServer.Script.CsScript.Action.Action1008.TakeAction() 位置 d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1008.cs:行号 51
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction().
+
+
+

@@ -1,0 +1,30 @@
+Time:2015/7/20 20:08:58-Trace>>Script init error:System.ArgumentException: "EntityTable.CacheType:Entity" attribute of GameServer.Script.Model.StaticServer class is error
+参数名: CacheType
+   在 ZyGames.Framework.Model.EntitySchemaSet.InitSchema(Type type)
+   在 ZyGames.Framework.Model.EntitySchemaSet.LoadAssembly(Assembly assembly)
+   在 ZyGames.Framework.Script.ScriptEngines.InitScriptRuntimeScope()
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize().
+
+
+Time:2015/7/20 20:08:58-Trace>>OnInit error:System.ArgumentException: "EntityTable.CacheType:Entity" attribute of GameServer.Script.Model.StaticServer class is error
+参数名: CacheType
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize()
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2015/7/20 20:10:02-Trace>>Action1009 error:System.NullReferenceException: Not found entity StaticServer personalId:1.
+   在 ZyGames.Framework.Cache.Generic.PersonalCacheStruct.Get[T](String personalId, Boolean allowNull, Object[] keys)
+   在 GameServer.Script.CsScript.Action.Action1009.TakeAction() 位置 d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs:行号 33
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction().
+?d=MsgId%3d8%26Sid%3ds_5c1bf819726d4fd6ba67038489c5c7d2%7c0%7c0%26Uid%3d1380000%26St%3d%26actionId%3d1009%26sign%3d230e9ba46c33891f4e2bb2b888e39d25
+
+
+Time:2015/7/20 20:10:28-Trace>>Action1009 error:System.NullReferenceException: Not found entity StaticServer personalId:1.
+   在 ZyGames.Framework.Cache.Generic.PersonalCacheStruct.Get[T](String personalId, Boolean allowNull, Object[] keys)
+   在 GameServer.Script.CsScript.Action.Action1009.TakeAction() 位置 d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs:行号 33
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction().
+?d=MsgId%3d9%26Sid%3ds_5c1bf819726d4fd6ba67038489c5c7d2%7c0%7c0%26Uid%3d1380000%26St%3d%26actionId%3d1009%26sign%3daad1071188f3999e17ac560c4be6a8e7
+
+

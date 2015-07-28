@@ -1,0 +1,66 @@
+Time:2015/7/27 17:23:40-Trace>>OnEntitySyncQueue execute count:1, success:0/total 1, fail:0 start...
+
+
+Time:2015/7/27 17:25:46-Trace>>OnEntitySyncQueue execute count:1, success:0/total 1, fail:0 start...
+
+
+Time:2015/7/27 17:26:24-Trace>>Action-1008 Uid:1380000 access timeout 8744.5001/500ms.
+
+
+Time:2015/7/27 17:26:36-Trace>>OnEntitySyncQueue execute count:2, success:1/total 3, fail:0 start...
+
+
+Time:2015/7/27 17:26:53-Trace>>OnEntitySyncQueue execute count:1, success:3/total 4, fail:0 start...
+
+
+Time:2015/7/27 17:27:04-Trace>>Action-1009 Uid:1380000 access timeout 22698.2983/500ms.
+
+
+Time:2015/7/27 17:28:26-Trace>>Action-1005 Uid:1380000 access timeout 6957.3979/500ms.
+
+
+Time:2015/7/27 17:28:31-Trace>>OnEntitySyncQueue execute count:1, success:4/total 5, fail:0 start...
+
+
+Time:2015/7/27 17:28:37-Trace>>Action-1009 Uid:1380000 access timeout 3220.1842/500ms.
+
+
+Time:2015/7/27 17:30:34-Trace>>OnEntitySyncQueue execute count:1, success:0/total 1, fail:0 start...
+
+
+Time:2015/7/27 17:33:25-Trace>>OnEntitySyncQueue execute count:2, success:0/total 2, fail:0 start...
+
+
+Time:2015/7/27 17:33:31-Trace>>OnEntitySyncQueue execute count:2, success:2/total 4, fail:0 start...
+
+
+Time:2015/7/27 17:33:39-Trace>>OnEntitySyncQueue execute count:1, success:4/total 5, fail:0 start...
+
+
+Time:2015/7/27 17:33:45-Trace>>Action-1009 Uid:1380000 access timeout 3649.2087/500ms.
+
+
+Time:2015/7/27 17:33:45-Trace>>OnEntitySyncQueue execute count:4, success:5/total 9, fail:0 start...
+
+
+Time:2015/7/27 17:34:19-Trace>>Action-1009 Uid:1380000 access timeout 1910.1093/500ms.
+
+
+Time:2015/7/27 17:35:37-Trace>>Action-1009 Uid:1380000 access timeout 60067.4356/500ms.
+
+
+Time:2015/7/27 17:35:52-Trace>>Action-1009 Uid:1380000 access timeout 3245.1856/500ms.
+
+
+Time:2015/7/27 17:41:10-Trace>>OnEntitySyncQueue execute count:1, success:9/total 10, fail:0 start...
+
+
+Time:2015/7/27 17:50:26-Trace>>OnEntitySyncQueue execute count:1, success:10/total 11, fail:0 start...
+
+
+Time:2015/7/27 17:52:58-Trace>>OnEntitySyncQueue execute count:1, success:11/total 12, fail:0 start...
+
+
+Time:2015/7/27 17:54:27-Trace>>OnEntitySyncQueue execute count:1, success:12/total 13, fail:0 start...
+
+

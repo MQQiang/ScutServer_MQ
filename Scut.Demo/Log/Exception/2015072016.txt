@@ -1,0 +1,427 @@
+Time:2015/7/20 16:24:19-Compile assembly:DynamicScripts.CsScript error:
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:18
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:18
+Message:可访问性不一致: 字段类型“System.Collections.Generic.List<GameServer.Script.Model.StaticServer>”比字段“GameServer.Script.CsScript.Action.Action1009.staticServerList”的可访问性低
+
+
+Time:2015/7/20 16:24:19-Trace>>Script init error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.CompileCsharp()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Compile()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Load()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeDomain.CreateScope(ScriptSettupInfo settupInfo)
+   在 ZyGames.Framework.Script.ScriptEngines.InitScriptRuntimeScope()
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize().
+
+
+Time:2015/7/20 16:24:19-Trace>>OnInit error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize()
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2015/7/20 16:24:43-Compile assembly:DynamicScripts.CsScript error:
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:18
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:18
+Message:可访问性不一致: 字段类型“System.Collections.Generic.List<GameServer.Script.Model.StaticServer>”比字段“GameServer.Script.CsScript.Action.Action1009.staticServerList”的可访问性低
+
+
+Time:2015/7/20 16:24:43-Trace>>Script init error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.CompileCsharp()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Compile()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Load()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeDomain.CreateScope(ScriptSettupInfo settupInfo)
+   在 ZyGames.Framework.Script.ScriptEngines.InitScriptRuntimeScope()
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize().
+
+
+Time:2015/7/20 16:24:43-Trace>>OnInit error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize()
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2015/7/20 16:25:42-Compile assembly:DynamicScripts.CsScript error:
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:18
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:18
+Message:可访问性不一致: 字段类型“System.Collections.Generic.List<GameServer.Script.Model.StaticServer>”比字段“GameServer.Script.CsScript.Action.Action1009.staticServerList”的可访问性低
+
+
+Time:2015/7/20 16:25:42-Trace>>Script init error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.CompileCsharp()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Compile()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Load()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeDomain.CreateScope(ScriptSettupInfo settupInfo)
+   在 ZyGames.Framework.Script.ScriptEngines.InitScriptRuntimeScope()
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize().
+
+
+Time:2015/7/20 16:25:42-Trace>>OnInit error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize()
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2015/7/20 16:27:38-Compile assembly:DynamicScripts.CsScript error:
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:18
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:18
+Message:可访问性不一致: 字段类型“System.Collections.Generic.List<GameServer.Script.Model.StaticServer>”比字段“GameServer.Script.CsScript.Action.Action1009.staticServerList”的可访问性低
+
+
+Time:2015/7/20 16:27:38-Trace>>Script init error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.CompileCsharp()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Compile()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Load()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeDomain.CreateScope(ScriptSettupInfo settupInfo)
+   在 ZyGames.Framework.Script.ScriptEngines.InitScriptRuntimeScope()
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize().
+
+
+Time:2015/7/20 16:27:38-Trace>>OnInit error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize()
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2015/7/20 16:28:36-Compile assembly:DynamicScripts.CsScript error:
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:18
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:18
+Message:可访问性不一致: 字段类型“System.Collections.Generic.List<GameServer.Script.Model.StaticServer>”比字段“GameServer.Script.CsScript.Action.Action1009.staticServerList”的可访问性低
+
+
+Time:2015/7/20 16:28:36-Trace>>Script init error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.CompileCsharp()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Compile()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Load()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeDomain.CreateScope(ScriptSettupInfo settupInfo)
+   在 ZyGames.Framework.Script.ScriptEngines.InitScriptRuntimeScope()
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize().
+
+
+Time:2015/7/20 16:28:36-Trace>>OnInit error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize()
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2015/7/20 16:36:48-Compile assembly:DynamicScripts.CsScript error:
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:18
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:18
+Message:可访问性不一致: 字段类型“System.Collections.Generic.List<GameServer.Script.Model.StaticServer>”比字段“GameServer.Script.CsScript.Action.Action1009.staticServerList”的可访问性低
+
+
+Time:2015/7/20 16:36:48-Trace>>Script init error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.CompileCsharp()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Compile()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Load()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeDomain.CreateScope(ScriptSettupInfo settupInfo)
+   在 ZyGames.Framework.Script.ScriptEngines.InitScriptRuntimeScope()
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize().
+
+
+Time:2015/7/20 16:36:48-Trace>>OnInit error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize()
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2015/7/20 16:37:34-Compile assembly:DynamicScripts.CsScript error:
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:18
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:18
+Message:可访问性不一致: 字段类型“System.Collections.Generic.List<GameServer.Script.Model.StaticServer>”比字段“GameServer.Script.CsScript.Action.Action1009.staticServerList”的可访问性低
+
+
+Time:2015/7/20 16:37:34-Trace>>Script init error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.CompileCsharp()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Compile()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Load()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeDomain.CreateScope(ScriptSettupInfo settupInfo)
+   在 ZyGames.Framework.Script.ScriptEngines.InitScriptRuntimeScope()
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize().
+
+
+Time:2015/7/20 16:37:34-Trace>>OnInit error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize()
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2015/7/20 16:39:09-Compile assembly:DynamicScripts.CsScript error:
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:18
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:18
+Message:可访问性不一致: 字段类型“System.Collections.Generic.List<GameServer.Script.Model.StaticServer>”比字段“GameServer.Script.CsScript.Action.Action1009.staticServerList”的可访问性低
+
+
+Time:2015/7/20 16:39:09-Trace>>Script init error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.CompileCsharp()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Compile()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Load()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeDomain.CreateScope(ScriptSettupInfo settupInfo)
+   在 ZyGames.Framework.Script.ScriptEngines.InitScriptRuntimeScope()
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize().
+
+
+Time:2015/7/20 16:39:09-Trace>>OnInit error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize()
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2015/7/20 16:40:24-Compile assembly:DynamicScripts.CsScript error:
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“GameServer.Script.Model.StaticServer”必须是具有公共的无参数构造函数的非抽象类型，才能用作泛型类型或方法“ZyGames.Framework.Cache.Generic.ShareCacheStruct<T>”中的参数“T”
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“ZyGames.Framework.Cache.Generic.ShareCacheStruct<GameServer.Script.Model.StaticServer>.ShareCacheStruct()”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:45
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:45
+Message:“ZyGames.Framework.Cache.Generic.ShareCacheStruct<GameServer.Script.Model.StaticServer>.FindAll(bool)”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\MainClass.cs, Line:57
+Message:“ZyGames.Framework.Game.Contract.GameSession.EndAddress”已过时
+
+
+Time:2015/7/20 16:40:24-Trace>>Script init error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.CompileCsharp()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Compile()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Load()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeDomain.CreateScope(ScriptSettupInfo settupInfo)
+   在 ZyGames.Framework.Script.ScriptEngines.InitScriptRuntimeScope()
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize().
+
+
+Time:2015/7/20 16:40:24-Trace>>OnInit error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize()
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2015/7/20 16:43:01-Compile assembly:DynamicScripts.CsScript error:
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“GameServer.Script.Model.StaticServer”必须是具有公共的无参数构造函数的非抽象类型，才能用作泛型类型或方法“ZyGames.Framework.Cache.Generic.ShareCacheStruct<T>”中的参数“T”
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“ZyGames.Framework.Cache.Generic.ShareCacheStruct<GameServer.Script.Model.StaticServer>.ShareCacheStruct()”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:45
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:45
+Message:“ZyGames.Framework.Cache.Generic.ShareCacheStruct<GameServer.Script.Model.StaticServer>.FindAll(bool)”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\MainClass.cs, Line:57
+Message:“ZyGames.Framework.Game.Contract.GameSession.EndAddress”已过时
+
+
+Time:2015/7/20 16:43:01-Trace>>Script init error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.CompileCsharp()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Compile()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Load()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeDomain.CreateScope(ScriptSettupInfo settupInfo)
+   在 ZyGames.Framework.Script.ScriptEngines.InitScriptRuntimeScope()
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize().
+
+
+Time:2015/7/20 16:43:01-Trace>>OnInit error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize()
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2015/7/20 16:47:59-Compile assembly:DynamicScripts.CsScript error:
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“GameServer.Script.Model.StaticServer”必须是具有公共的无参数构造函数的非抽象类型，才能用作泛型类型或方法“ZyGames.Framework.Cache.Generic.ShareCacheStruct<T>”中的参数“T”
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“ZyGames.Framework.Cache.Generic.ShareCacheStruct<GameServer.Script.Model.StaticServer>.ShareCacheStruct()”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:47
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:47
+Message:“ZyGames.Framework.Cache.Generic.ShareCacheStruct<GameServer.Script.Model.StaticServer>.Find(System.Predicate<GameServer.Script.Model.StaticServer>)”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\MainClass.cs, Line:57
+Message:“ZyGames.Framework.Game.Contract.GameSession.EndAddress”已过时
+
+
+Time:2015/7/20 16:47:59-Trace>>Script init error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.CompileCsharp()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Compile()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Load()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeDomain.CreateScope(ScriptSettupInfo settupInfo)
+   在 ZyGames.Framework.Script.ScriptEngines.InitScriptRuntimeScope()
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize().
+
+
+Time:2015/7/20 16:47:59-Trace>>OnInit error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize()
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2015/7/20 16:48:16-Compile assembly:DynamicScripts.CsScript error:
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“GameServer.Script.Model.StaticServer”必须是具有公共的无参数构造函数的非抽象类型，才能用作泛型类型或方法“ZyGames.Framework.Cache.Generic.ShareCacheStruct<T>”中的参数“T”
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“ZyGames.Framework.Cache.Generic.ShareCacheStruct<GameServer.Script.Model.StaticServer>.ShareCacheStruct()”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\MainClass.cs, Line:57
+Message:“ZyGames.Framework.Game.Contract.GameSession.EndAddress”已过时
+
+
+Time:2015/7/20 16:48:16-Trace>>Script init error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.CompileCsharp()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Compile()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Load()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeDomain.CreateScope(ScriptSettupInfo settupInfo)
+   在 ZyGames.Framework.Script.ScriptEngines.InitScriptRuntimeScope()
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize().
+
+
+Time:2015/7/20 16:48:16-Trace>>OnInit error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize()
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2015/7/20 16:50:38-Compile assembly:DynamicScripts.CsScript error:
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“GameServer.Script.Model.StaticServer”必须是具有公共的无参数构造函数的非抽象类型，才能用作泛型类型或方法“ZyGames.Framework.Cache.Generic.ShareCacheStruct<T>”中的参数“T”
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“ZyGames.Framework.Cache.Generic.ShareCacheStruct<GameServer.Script.Model.StaticServer>.ShareCacheStruct()”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:47
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:47
+Message:“ZyGames.Framework.Cache.Generic.ShareCacheStruct<GameServer.Script.Model.StaticServer>.Find(System.Predicate<GameServer.Script.Model.StaticServer>)”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\MainClass.cs, Line:57
+Message:“ZyGames.Framework.Game.Contract.GameSession.EndAddress”已过时
+
+
+Time:2015/7/20 16:50:38-Trace>>Script init error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.CompileCsharp()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Compile()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Load()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeDomain.CreateScope(ScriptSettupInfo settupInfo)
+   在 ZyGames.Framework.Script.ScriptEngines.InitScriptRuntimeScope()
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize().
+
+
+Time:2015/7/20 16:50:38-Trace>>OnInit error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize()
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2015/7/20 16:57:11-Compile assembly:DynamicScripts.CsScript error:
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“GameServer.Script.Model.StaticServer”必须是具有公共的无参数构造函数的非抽象类型，才能用作泛型类型或方法“ZyGames.Framework.Cache.Generic.ShareCacheStruct<T>”中的参数“T”
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“ZyGames.Framework.Cache.Generic.ShareCacheStruct<GameServer.Script.Model.StaticServer>.ShareCacheStruct()”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:47
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:47
+Message:“ZyGames.Framework.Cache.Generic.ShareCacheStruct<GameServer.Script.Model.StaticServer>.Find(System.Predicate<GameServer.Script.Model.StaticServer>)”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\MainClass.cs, Line:57
+Message:“ZyGames.Framework.Game.Contract.GameSession.EndAddress”已过时
+
+
+Time:2015/7/20 16:57:11-Trace>>Script init error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.CompileCsharp()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Compile()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Load()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeDomain.CreateScope(ScriptSettupInfo settupInfo)
+   在 ZyGames.Framework.Script.ScriptEngines.InitScriptRuntimeScope()
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize().
+
+
+Time:2015/7/20 16:57:11-Trace>>OnInit error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize()
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2015/7/20 16:59:20-Compile assembly:DynamicScripts.CsScript error:
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“GameServer.Script.Model.StaticServer”必须是具有公共的无参数构造函数的非抽象类型，才能用作泛型类型或方法“ZyGames.Framework.Cache.Generic.ShareCacheStruct<T>”中的参数“T”
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:43
+Message:“ZyGames.Framework.Cache.Generic.ShareCacheStruct<GameServer.Script.Model.StaticServer>.ShareCacheStruct()”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:47
+Message:“GameServer.Script.Model.StaticServer”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\Action\Action1009.cs, Line:47
+Message:“ZyGames.Framework.Cache.Generic.ShareCacheStruct<GameServer.Script.Model.StaticServer>.Find(System.Predicate<GameServer.Script.Model.StaticServer>)”不可访问，因为它受保护级别限制
+File:d:\Server\Scut-sample\UnityDemo\Server\src\Scut.Demo\Script\CsScript\MainClass.cs, Line:57
+Message:“ZyGames.Framework.Game.Contract.GameSession.EndAddress”已过时
+
+
+Time:2015/7/20 16:59:20-Trace>>Script init error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.CompileCsharp()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Compile()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Load()
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeScope.Init()
+   在 ZyGames.Framework.Script.ScriptRuntimeDomain.CreateScope(ScriptSettupInfo settupInfo)
+   在 ZyGames.Framework.Script.ScriptEngines.InitScriptRuntimeScope()
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize().
+
+
+Time:2015/7/20 16:59:20-Trace>>OnInit error:System.Exception: The csharp script compile error
+   在 ZyGames.Framework.Script.ScriptEngines.Initialize()
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+

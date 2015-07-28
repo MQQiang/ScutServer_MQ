@@ -1,0 +1,31 @@
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+20:08:56 Server is starting...
+20:08:58 script compiled successfully.
+20:08:58 Start checking table schema, please wait.
+20:08:58 Server failed to start error:"EntityTable.CacheType:Entity" attribute of GameServer.Script.Model.StaticServer class is error
+²ÎÊýÃû: CacheType
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+20:09:34 Server is starting...
+20:09:35 script compiled successfully.
+20:09:36 Start checking table schema, please wait.
+20:09:36 Check table schema successfully.
+20:09:36 CacheFactory listen has started...
+# Server command "Ctrl+C" or "Ctrl+Break" exit.
+20:09:36 Server has started successfully!
+# Server is listening...
